@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 LABEL maintainer="Boik Su <boik@tdohacker.org>"
 
 ENV HOME /root
